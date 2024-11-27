@@ -39,6 +39,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85141635</meta>
 		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">A review of the literature surrounding utopias and how they relate to contemporary society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The concept of an ideal society has long existed in literature. In &lt;i&gt;The Story of Utopias&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/lewis-mumford"&gt;Lewis Mumford&lt;/a&gt; explains how imaginative utopias can be used either as an escape from daily life, or as the beginning of an actionable path to a better society. He begins by tracing the historical evolution of the concept of utopia, from &lt;a href="https://standardebooks.org/ebooks/plato"&gt;Plato’s&lt;/a&gt; &lt;i&gt;Republic&lt;/i&gt; and Moore’s &lt;i&gt;Utopia&lt;/i&gt;, through to the nineteenth and early twentieth century utopias of &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt;. Along the way Mumford discuses how these ideal societies were influenced by the not-so-perfect society surrounding the authors as well as the impact on public thoughts and sentiments that the utopias created.&lt;/p&gt;
@@ -47,7 +48,6 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://sacred-texts.com/utopia/sou/index.htm</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001137611</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-mumford_the-story-of-utopias</meta>
