@@ -60,10 +60,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50046677</meta>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Pinckney Marcius-Simons</dc:contributor>
+		<meta property="file-as" refines="#artist">Marcius-Simons, Pickney</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Pinckney_Marcius-Simons</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2002019404</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Bruno Hare</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hare, John Bruno</meta>
