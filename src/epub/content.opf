@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-mumford/the-story-of-utopias</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-29T22:51:36Z</dc:date>
+		<meta property="dcterms:modified">2024-11-29T22:51:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,14 +42,14 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">An American historian reviews the literature surrounding utopias and how they relate to contemporary society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The concept of an ideal society has long existed in literature. In &lt;i&gt;The Story of Utopias&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/lewis-mumford"&gt;Lewis Mumford&lt;/a&gt; explains how imaginative utopias can be used either as an escape from daily life, or as the beginning of an actionable path to a better society. He begins by tracing the historical evolution of the concept of utopia, from &lt;a href="https://standardebooks.org/ebooks/plato"&gt;Plato’s&lt;/a&gt; &lt;i&gt;Republic&lt;/i&gt; and Moore’s &lt;i&gt;Utopia&lt;/i&gt;, through to the nineteenth and early twentieth century utopias of &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt;. Along the way Mumford discuses how these ideal societies were influenced by the not-so-perfect society surrounding the authors as well as the impact on public thoughts and sentiments that the utopias created.&lt;/p&gt;
-			&lt;p&gt;Mumford discusses how the society of his time, especially the consumer paradise of the country manors and their counterpoint industrial Coketowns, was made possible by a particular world-view that prioritizes consumers over producers. This world-view holds that utopia can be achieved solely through technical, labor saving, improvements. Even revolutionary counter movements came accept the premise; with the addition that salvation lies in a better distribution of material goods. Furthermore, science has become a tool of mass production and art a tool of expressing personal feelings without relation to society as whole. Mumford concludes that in order to create a truly better society it is essential to be able to dream and invent a more appealing version of utopia that can reconcile people’s material and their spiritual needs.&lt;/p&gt;
+			&lt;p&gt;The concept of an ideal society has long existed in literature. In &lt;i&gt;The Story of Utopias&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/lewis-mumford"&gt;Lewis Mumford&lt;/a&gt; explains how imaginative utopias can be used either as an escape from daily life, or as the beginning of an actionable path to a better society. He begins by tracing the historical evolution of the concept of utopia, from &lt;a href="https://standardebooks.org/ebooks/plato"&gt;Plato’s&lt;/a&gt; &lt;i&gt;Republic&lt;/i&gt; and Moore’s &lt;i&gt;Utopia&lt;/i&gt;, through to the nineteenth and early twentieth century utopias of &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt;. Along the way Mumford discusses how these ideal societies were influenced by the not-so-perfect societies the authors lived in, as well as the impact they had on public thought and sentiment.&lt;/p&gt;
+			&lt;p&gt;Mumford discusses how the society of his time, especially the consumer paradise of the country manors and their opposites, the industrial Coketowns, was made possible by a particular worldview that prioritizes consumers over producers. This worldview holds that a utopia can be achieved solely through technical, laborsaving, improvements. Even revolutionary countermovements came to accept this premise, with the corollary that salvation lies in a better distribution of material goods. Furthermore, Mumford asserts that science has become a tool for mass production, and art a tool for expressing personal feelings without relation to society as whole. He concludes that in order to create a truly better society it’s essential to be able to dream and invent a more appealing version of utopia that can reconcile both people’s material and spiritual needs.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://sacred-texts.com/utopia/sou/index.htm</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001137611</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">78211</meta>
+		<meta property="se:reading-ease.flesch">39.3</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-mumford_the-story-of-utopias</meta>
 		<dc:creator id="author">Lewis Mumford</dc:creator>
 		<meta property="file-as" refines="#author">Mumford, Lewis</meta>
@@ -77,6 +77,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
