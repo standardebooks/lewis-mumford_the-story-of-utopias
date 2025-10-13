@@ -61,7 +61,7 @@
 		<meta property="file-as" refines="#author-of-introduction">van Loon, Hendrik Willem</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50046677</meta>
-		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Pinckney Marcius-Simons</dc:contributor>
 		<meta property="file-as" refines="#artist">Marcius-Simons, Pickney</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Pinckney_Marcius-Simons</meta>
