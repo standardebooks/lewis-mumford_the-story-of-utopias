@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/lewis-mumford/the-story-of-utopias</dc:identifier>
 		<dc:date>2024-11-29T22:51:36Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta property="term" refines="#subject-1">sh85141635</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:description id="description">An American historian reviews the literature surrounding utopias and how they relate to contemporary society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An American historian reviews the literature surrounding utopias and how they relate to contemporary society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The concept of an ideal society has long existed in literature. In &lt;i&gt;The Story of Utopias&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/lewis-mumford"&gt;Lewis Mumford&lt;/a&gt; explains how imaginative utopias can be used either as an escape from daily life, or as the beginning of an actionable path to a better society. He begins by tracing the historical evolution of the concept of utopia, from &lt;a href="https://standardebooks.org/ebooks/plato"&gt;Plato’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett"&gt;Republic&lt;/a&gt;&lt;/i&gt; and &lt;a href="https://standardebooks.org/ebooks/thomas-more"&gt;More’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/thomas-more/utopia"&gt;Utopia&lt;/a&gt;&lt;/i&gt;, through to the nineteenth and early twentieth century utopias of &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt;. Along the way Mumford discusses how these ideal societies were influenced by the not-so-perfect societies the authors lived in, as well as the impact they had on public thought and sentiment.&lt;/p&gt;
 			&lt;p&gt;Mumford discusses how the society of his time, especially the consumer paradise of the country manors and their opposites, the industrial Coketowns, was made possible by a particular worldview that prioritizes consumers over producers. This worldview holds that a utopia can be achieved solely through technical, laborsaving improvements. Even revolutionary countermovements came to accept this premise, with the corollary that salvation lies in a better distribution of material goods. Furthermore, Mumford asserts that science has become a tool for mass production, and art a tool for expressing personal feelings without relation to society as whole. He concludes that in order to create a truly better society it’s essential to be able to dream and invent a more appealing version of utopia that can reconcile both people’s material and spiritual needs.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://sacred-texts.com/utopia/sou/index.htm</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001137611</dc:source>
